@@ -6,7 +6,7 @@ We welcome all improvements to this website.  Please see our [Contributing guide
 
 
 ## Local setup
-If you want to preview this website locally, follow these steps:
+If you want to preview this website on your machine, follow these steps:
 
 1. Obtain and install the following packages if you don't already have them: 
 	1. Node.js (or another javascript runtime)
